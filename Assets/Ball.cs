@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+// test comment
 public class Ball : MonoBehaviour {
 
 	public float speed = 30;
